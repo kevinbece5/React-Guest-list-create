@@ -1,2 +1,2 @@
-# React-Guest-list-create
-List maker with react to move state up from components 
+# React-RSVP-App
+List maker with React to move state up from components 
